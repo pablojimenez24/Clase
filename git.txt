@@ -1,3 +1,3 @@
 git
-git init
+¿ git init ? inicializar repositorio local
 git clone enlacegoogledelrepositorio

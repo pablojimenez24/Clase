@@ -1,5 +1,7 @@
 git
+
 git init
 git clone enlacegoogledelrepositorio
 
 "administrador de credenciales" en Windows para quitar la cuenta enlazada de git con un equipo
+
